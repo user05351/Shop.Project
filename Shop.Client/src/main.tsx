@@ -4,7 +4,6 @@ import FontStyles from "./FontStyles";
 import { Provider } from "react-redux";
 import { configureStore, combineReducers } from "@reduxjs/toolkit";
 import { useDispatch } from "react-redux";
-
 import { listSlices } from "./redux/slices.tsx";
 import { productSlices } from "./redux/slices.tsx";
 
