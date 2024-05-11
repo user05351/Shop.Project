@@ -24,7 +24,7 @@ interface HeaderProps {}
 const Header: React.FC<HeaderProps> = () => {
   return (
     <StyledHeader>
-      <img src={logo} alt="shopping cart logo" />
+      <img src={logo} alt="smartphone logo" />
       <h1>Shop.Client</h1>
     </StyledHeader>
   );
