@@ -15,7 +15,6 @@ import {
   emptyProduct,
   emptySimilar,
 } from "../redux/slices";
-
 import { StyledTitle } from "../NewCommentForm/newCommentForm";
 import { StyledProductComment } from "../ProductComment/productComment";
 import styled from "styled-components";
